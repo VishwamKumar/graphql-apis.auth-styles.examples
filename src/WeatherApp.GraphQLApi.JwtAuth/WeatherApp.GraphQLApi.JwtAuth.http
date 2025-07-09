@@ -1,0 +1,6 @@
+@WeatherApp.GraphQLApi.JwtAuth_HostAddress = http://localhost:5190
+
+GET {{WeatherApp.GraphQLApi.JwtAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

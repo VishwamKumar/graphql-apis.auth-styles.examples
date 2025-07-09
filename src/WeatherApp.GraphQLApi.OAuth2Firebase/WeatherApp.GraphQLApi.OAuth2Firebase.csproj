@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
 	<Authors>Vishwa Kumar</Authors>
@@ -11,10 +11,10 @@
 
   <ItemGroup>
     <PackageReference Include="FirebaseAdminAuthentication.DependencyInjection" Version="1.1.0" />
-    <PackageReference Include="Google.Apis.Auth" Version="1.68.0" />
-    <PackageReference Include="Google.Cloud.Firestore" Version="3.8.0" />
-    <PackageReference Include="HotChocolate.AspNetCore" Version="13.9.6" />
-    <PackageReference Include="HotChocolate.AspNetCore.Authorization" Version="13.9.6" />
+    <PackageReference Include="Google.Apis.Auth" Version="1.70.0" />
+    <PackageReference Include="Google.Cloud.Firestore" Version="3.10.0" />
+    <PackageReference Include="HotChocolate.AspNetCore" Version="15.1.7" />
+    <PackageReference Include="HotChocolate.AspNetCore.Authorization" Version="15.1.7" />
   </ItemGroup>
 
   <ItemGroup>
