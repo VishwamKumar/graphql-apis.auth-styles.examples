@@ -1,6 +1,6 @@
-# 🌦️ Weather App - Auth with GraphQL APIs (Layered Architecture)
+# 🌦️ Weather App - Auth with GraphQL APIs Examples
 
-Authentication-focused GraphQL API examples for a Weather App using Layered Architecture. Demonstrates secure access using API Key, JWT, and OAuth2 (Firebase) mechanisms built with [HotChocolate](https://chillicream.com/docs/hotchocolate).
+Authentication-focused GraphQL API examples for a Weather App using simple Layered Architecture. Demonstrates secure access using API Key, JWT, and OAuth2 (Firebase) mechanisms built with [HotChocolate](https://chillicream.com/docs/hotchocolate).
 
 ---
 # Authors
