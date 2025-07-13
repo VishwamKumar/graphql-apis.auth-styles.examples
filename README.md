@@ -32,7 +32,7 @@ Each project has its own solution file and can be run/tested independently.
 ### 🧱 Clone the Repository
 
     ```bash
-        git clone https://github.com/<your-username>/weather-app.auth-graphql-apis.layered.git
+        git clone https://github.com/vishwamkumar/weather-app.auth-graphql-apis.layered.git
         cd weather-app.auth-graphql-apis.layered
     ```
 
